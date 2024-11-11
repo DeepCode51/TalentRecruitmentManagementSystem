@@ -1,0 +1,9 @@
+用户端：
+http://localhost:8082/home/index/index
+管理员端：
+http://localhost:8082/admin/system/login
+
+账号密码：
+用户端：可以自己注册（要用自己的真实邮箱）
+管理员端：
+admin 123456
